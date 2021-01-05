@@ -64,6 +64,10 @@ What I do | 내가 하는 것들
 * Minecraft / 마인크래프트
   * Server of Joining Often / 자주 들어가는 서버
     * [Hypixel](https://hypixel.net/) 하이픽셀 ~~Laggpixel~~
+
+
+* Imprison / Panic Room / 검은방
+  * 검은방 1 올 클리어
   
 
 Contacts | 연락처
