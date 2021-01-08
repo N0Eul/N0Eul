@@ -25,8 +25,8 @@ Description of person to exist. 실존하는 사람에 대한 설명.
       <td>Male<br/>남성</td>
     </tr>
     <tr>
-      <th>Birth Date<br/>생년도</th>
-      <td>2005-01-11 KST</td>
+      <th>Birth Date<br/>생년</th>
+      <td>2005</td>
     </tr>
     <tr>
       <th>Country<br/>국적</th>
