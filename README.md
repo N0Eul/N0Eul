@@ -1,4 +1,4 @@
-### Hi there 👋 Im NoEul.
+### Hi there 👋 I'm NoEul.
 
 If you want more information, you can visit [my document](NoEul.md)!
 
