@@ -59,6 +59,7 @@ What I do | 내가 하는 것들
 * Project Shrine Maiden / Touhou Project / 동방 프로젝트 / 東方プロジェクト
   * THEoSD / 동방홍마향 / 東方紅魔郷　～ The Embodiment of Scarlet Devil.
   * THMoF / 동방풍신록 / 東方風神録　～ Mountain of Faith.
+  * THWBaWC / 동방귀형수 / 東方鬼形獣　～ Wily Beast and Weakest Creature.
   
 
 * Minecraft / 마인크래프트
