@@ -104,7 +104,7 @@ Just enjoy it for fun. 그냥 재미로만 즐겨주세요.
   </tr>
   <tr>
     <th>Ability<br/>능력</th>
-    <td>The ability of the extent to being undetermined<br/>미정인 정도의 능력</td>
+    <td>The ability of the extent to use power of twilight<br/>해질녘의 힘을 다루는 정도의 능력</td>
   </tr>
   <tr>
     <th>Dangerous Degree<br/>위험도</th>
