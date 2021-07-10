@@ -11,9 +11,6 @@ Description of person to exist. 실존하는 사람에 대한 설명.
     <tr>
       <th colspan="2">Profile | 프로필</th>
     </tr>
-    <tr>
-      <th colspan="2"><img src="https://avatars2.githubusercontent.com/u/67686234" alt="profileImage" width="360px" /></th>
-    </tr>
   </thead>
   <tbody>
     <tr>
@@ -86,6 +83,14 @@ This is a description of the character, has nothing to do with what really exist
 Just enjoy it for fun. 그냥 재미로만 즐겨주세요.
 
 <table>
+  <thead>
+    <tr>
+      <th colspan="2">Profile | 프로필</th>
+    </tr>
+    <tr>
+      <th colspan="2"><img src="https://avatars2.githubusercontent.com/u/67686234" alt="profileImage" width="360px" /></th>
+    </tr>
+  </thead>
   <tr>
     <th>Name<br/>이름</th>
     <td>NoEul<br/>노을</td>
@@ -107,11 +112,11 @@ Just enjoy it for fun. 그냥 재미로만 즐겨주세요.
     <td>The ability of the extent to use power of twilight<br/>해질녘의 힘을 다루는 정도의 능력</td>
   </tr>
   <tr>
-    <th>Dangerous Degree<br/>위험도</th>
+    <th>Dangerous<br/>Degree<br/>위험도</th>
     <td>Great<br/>높음</td>
   </tr>
   <tr>
-    <th>Unhostile Degree to Human<br/>인간 우호도</th>
+    <th>Unhostile Degree<br/>to Human<br/>인간 우호도</th>
     <td>Less<br/>낮음</td>
   </tr>
 </table>
